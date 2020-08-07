@@ -1,5 +1,7 @@
 # react-redux-typescript-example
 
+fork https://github.com/resir014/react-redux-typescript-example
+
 > Demonstrating the common patterns when using React, Redux v4, and TypeScript.
 
 **Example deployment:** [(link)](https://react-redux-typescript-example.now.sh/)
