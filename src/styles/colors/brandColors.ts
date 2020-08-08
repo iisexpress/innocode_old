@@ -8,10 +8,11 @@ const brandColors = {
   gray20: '#cccccc',
   gray10: '#e5e5e5',
   gray5: '#ebebea',
-  white: '#fefefe',
   yellow: '#f3df49',
   red: '#eb5558',
-  green: '#9ee79a'
+  green: '#9ee79a',
+  gray: '#C5CACD',
+  white: '#E5E5E5'
 }
 
 export default brandColors
